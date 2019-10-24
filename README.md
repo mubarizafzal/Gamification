@@ -1,3 +1,3 @@
 # FAQ for CMN300
 
-Based on CodyHouse FAQ Template
+Visit the page here: https://popthesmart.github.io/Gamification/
