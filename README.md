@@ -1,3 +1,3 @@
 # FAQ for CMN300
 
-Visit the page here: https://popthesmart.github.io/Gamification/
+Visit the page here: https://mubarizafzal.github.io/Gamification/
